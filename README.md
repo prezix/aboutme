@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌐 Web Dev | 🐍 Python | ⚙️ C | ⚙️ C++ | 🔧 C# | ☕ Java | 🎨 CSS | ⚛️ ReactJS | 🎮 Lua | 🛠️ gLua
 -------------------------------------------------------------------------------------------------
 
-Привет! Я prezix. 💻 Веб-разработка: HTML, CSS, JavaScript, React.js, TypeScript, PHP 🐍 Бэкенд: Python, PHP ⚙️ Системное программирование: C, C++, C# ☕ Кроссплатформенные приложения: Java 🎮 Геймдев: Lua, GMod Lua (gLua)
+Привет! Я prezix. 
+💻 Веб-разработка: HTML, CSS, JavaScript, React.js, TypeScript, PHP 
+🐍 Бэкенд: Python, PHP 
+⚙️ Системное программирование: C, C++, C# 
+☕ Кроссплатформенные приложения: Java 
+🎮 Геймдев: Lua, GMod Lua (gLua)
 
 ### Skills
 
